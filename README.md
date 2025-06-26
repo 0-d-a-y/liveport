@@ -32,7 +32,7 @@
 - Clone the repository:
 
 ```
-git clone https://github.com/livepwn/liveport.git
+git clone https://github.com/0-d-a-y/liveport.git
 
 cd liveport
 ```
